@@ -12,9 +12,9 @@ Tiles:
 
 ![NanoTile1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles1.png)
 
-![NanoTile2](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles1.png)
+![NanoTile2](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles2.png)
 
-![NanoTile3](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles1.png)
+![NanoTile3](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles3.png)
 
 
 Results:
