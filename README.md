@@ -29,11 +29,11 @@ Tutorial:
 
 First: You open the file choosing dialog box
 
-![Tutorial1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/choseFile.png)
+![Tutorial1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/chosePNGfile.png)
 
 Second: You navigate to the nanotiles you created
 
-![Tutorial2](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/chosePNGfile.png)
+![Tutorial2](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/choseFile.png)
 
 Finally: You press generate and I hope it suits your needs
 
