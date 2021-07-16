@@ -25,3 +25,16 @@ Results:
 
 ![TileSet1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/results/tileSet3.png)
 
+Tutorial:
+
+First: You open the file choosing dialog box
+
+![Tutorial1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/choseFile.png)
+
+Second: You navigate to the nanotiles you created
+
+![Tutorial2](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/chosePNGfile.png)
+
+Finally: You press generate and I hope it suits your needs
+
+![Tutorial3](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/generate.png)
