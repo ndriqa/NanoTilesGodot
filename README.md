@@ -39,4 +39,4 @@ Finally: You press generate and I hope it suits your needs
 
 ![Tutorial3](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/tutorial/generate.png)
 
-> :warning: **Generated image file is save into the directory that the jar file is!**  Keep making awesome games!:
+> :warning: **Generated image file is saved into the directory that the jar file is!**  Keep making awesome games!:
