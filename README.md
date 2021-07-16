@@ -9,11 +9,19 @@ You can just download the released jar file, launch it, select your png file wit
 Here are the samples and the results generated from those samples
 
 Tiles:
+
 ![NanoTile1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles1.png)
+
 ![NanoTile2](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles1.png)
+
 ![NanoTile3](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/nanoTiles1.png)
 
+
 Results:
+
 ![TileSet1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/results/tileSet1.png)
+
 ![TileSet1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/results/tileSet2.png)
+
 ![TileSet1](https://github.com/ndriqa/NanoTilesGodot/blob/master/assets/results/tileSet3.png)
+
